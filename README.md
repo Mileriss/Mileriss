@@ -17,7 +17,7 @@
 </div>
 
 # Onde me encontrar:
-Se você gostou do meu perfil e quer conversar mais, seja para serviços, projetos ou compartilhar experiencias, por favor, entre em contato atráves de um dos icones abaixo ⤵️  
+Se você gostou do meu perfil e quer conversar mais, seja para serviços, projetos ou compartilhar experiencias, por favor, entre em contato através de um dos icones abaixo ⤵️  
 
 [![Linkedin: Rafael Mileris](https://img.shields.io/badge/-RafaelMileris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-mileris-a808b7239/)](https://www.linkedin.com/in/rafael-mileris-a808b7239/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rafaelmileris15@gmail.com)](mailto:rafaelmileris15@gmail.com)
