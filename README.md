@@ -24,5 +24,5 @@ Se você gostou do meu perfil e quer conversar mais, seja para serviços, projet
 [![GitHub Rafael Mileris]( https://img.shields.io/github/followers/Mileriss?label=follow&style=social)](https://github.com/Mileriss)  
 
 # Stats
-![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=false&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&layout=compact&theme=github_dark)](https://github.com/mileriss/github-readme-stats)
+![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=github_dark)
