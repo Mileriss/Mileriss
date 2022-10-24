@@ -10,7 +10,7 @@ Mileriss/Mileriss is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 # Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=github_dark) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 # Habilidades  
@@ -20,6 +20,4 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Python-RafaelMileris" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
 <img align="center" alt="Python-RafaelMileris" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="Python-RafaelMileris" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="Python-RafaelMileris" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-<img align="center" alt="Python-RafaelMileris" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
