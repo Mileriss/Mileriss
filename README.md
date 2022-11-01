@@ -15,7 +15,7 @@
 <a ref="https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/" target="_blank"><img align="center" alt="Git-RafaelMileris" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 </div>
  
-# Onde me encontrar:
+# Onde me encontrar
 Se você gostou do meu perfil e quer conversar mais, seja para serviços, projetos ou compartilhar experiencias, por favor, entre em contato através de um dos icones abaixo ⤵️  
 
 <a href="https://www.linkedin.com/in/rafael-mileris-a808b7239" target="_blank">![Linkedin: Rafael Mileris](https://img.shields.io/badge/-RafaelMileris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-mileris-a808b7239)</a>
