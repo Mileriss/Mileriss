@@ -1,9 +1,9 @@
 # Quem sou eu...
-- :ok_man: Olá, sou o Rafael Mileris!
-- :mortar_board: Estou me graduando em Análise e Desenvolvimento de Sistemas e trabalho como estagiário em Análise de Dados.  
-- :dart: Tenho objetivo de me tornar um desenvolvedor Full-stack, mas por enquanto estou focando na parte de Back-end.  
-- :books: Atualmente estou estudando sobre Python, HTML, Css, Power BI e trabalhando em alguns projetos pessoais.  
-- :office: Estou procurando uma vaga de estágio em desenvolvimento em alguma empresa de tecnologia que seja focada em crescer e inovar!  
+:ok_man: Olá, sou o Rafael Mileris!  
+:mortar_board: Estou me graduando em Análise e Desenvolvimento de Sistemas e trabalho como estagiário em Análise de Dados.  
+:dart: Tenho objetivo de me tornar um desenvolvedor Full-stack, mas por enquanto estou focando na parte de Back-end.  
+:books: Atualmente estou estudando sobre Python, HTML, Css, Power BI e trabalhando em alguns projetos pessoais.  
+:office: Estou procurando uma vaga de estágio em desenvolvimento em alguma empresa de tecnologia que seja focada em crescer e inovar!  
 
 # Habilidades  
 <b>Observação:</b> Eu ainda estou no nível básico e aprendendo sobre as linguagens e bibliotecas abaixo, não há projetos relevantes (ainda) mas estou providenciando e logo terá novidades.
@@ -26,4 +26,4 @@ Se você gostou do meu perfil e quer conversar mais, seja para serviços, projet
 <!--![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=github_dark)-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mileriss&theme=black-ice&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://github.com/Mileriss?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=5&theme=dark)](https://github.com/Mileriss?tab=repositories)
-[![Mileriss github activity graph](https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react-dark)](https://github.com/Mileriss?tab=repositories))
+[![Mileriss github activity graph](https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react-dark)](https://github.com/Mileriss?tab=repositories)
