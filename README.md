@@ -18,9 +18,9 @@
 # Onde me encontrar:
 Se você gostou do meu perfil e quer conversar mais, seja para serviços, projetos ou compartilhar experiencias, por favor, entre em contato através de um dos icones abaixo ⤵️  
 
-[![Linkedin: Rafael Mileris](https://img.shields.io/badge/-RafaelMileris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-mileris-a808b7239/)](https://www.linkedin.com/in/rafael-mileris-a808b7239/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rafaelmileris15@gmail.com)](mailto:rafaelmileris15@gmail.com)
-[![GitHub Rafael Mileris]( https://img.shields.io/github/followers/Mileriss?label=follow&style=social)](https://github.com/Mileriss)  
+<a href="https://www.linkedin.com/in/rafael-mileris-a808b7239" target="_blank">![Linkedin: Rafael Mileris](https://img.shields.io/badge/-RafaelMileris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-mileris-a808b7239/)</a>
+<a href="mailto:rafaelmileris15@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rafaelmileris15@gmail.com)</a>
+<a href="https://github.com/Mileriss" target="_blank">![GitHub Rafael Mileris]( https://img.shields.io/github/followers/Mileriss?label=follow&style=social)</a>
 
 # Estatísticas
 <!--![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=github_dark)-->
