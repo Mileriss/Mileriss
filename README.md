@@ -5,6 +5,10 @@
 :books: Atualmente estou estudando sobre Python, HTML, Css, Power BI e trabalhando em alguns projetos pessoais.  
 :office: Estou procurando uma vaga de estágio em desenvolvimento...  
 
+# Página de apresentação  
+:computer: Visite a minha página de apresentação através do link abaixo:  
+https://htmlpreview.github.io/?https://github.com/Mileriss/Pagina-de-Apresentacao/blob/master/HTML/pagina_principal.html
+
 # Habilidades  
 <b>Observação:</b> Eu ainda estou no nível básico e aprendendo sobre as linguagens e bibliotecas abaixo, não há projetos relevantes (ainda) mas estou providenciando e logo terá novidades.
 <div style="display:inline-block">
@@ -16,7 +20,7 @@
 </div>
  
 # Onde me encontrar
-Se você gostou do meu perfil e quer conversar mais, seja para serviços, projetos ou compartilhar experiencias, por favor, entre em contato através de um dos icones abaixo ⤵️  
+Se você gostou do meu perfil e quer conversar mais, seja para serviços, projetos ou compartilhar experiências, por favor, entre em contato através de um dos icones abaixo ⤵️  
 
 <a href="https://www.linkedin.com/in/rafael-mileris-a808b7239" target="_blank">![Linkedin: Rafael Mileris](https://img.shields.io/badge/-RafaelMileris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-mileris-a808b7239)</a>
 <a href="mailto:rafaelmileris15@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rafaelmileris15@gmail.com)</a>
