@@ -5,11 +5,11 @@
 :books: Atualmente estou estudando sobre Python, HTML, Css, Power BI e trabalhando em alguns projetos pessoais.  
 :office: Estou procurando uma vaga de estágio em desenvolvimento...  
 
-<!--
+
 # Página de apresentação  
+<b>Obs:</b> Os estilos criados dentro do link ao clicar no botão "Código" não estão carregando, estou procurando uma solução.  
 :computer: Visite a minha página de apresentação através do link abaixo:  
 https://htmlpreview.github.io/?https://github.com/Mileriss/Pagina-de-Apresentacao/blob/master/HTML/pagina_principal.html
--->
 
 # Habilidades  
 <b>Observação:</b> Eu ainda estou no nível básico e aprendendo sobre as linguagens e bibliotecas abaixo, não há projetos relevantes (ainda) mas estou providenciando e logo terá novidades.
