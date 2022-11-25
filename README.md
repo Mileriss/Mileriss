@@ -8,7 +8,7 @@
 
 # Página de apresentação  
 :computer: Visite a minha página de apresentação através do link abaixo:  
-https://github.com/Mileriss/Pagina-de-Apresentacao/blob/master/HTML/pagina_principal.html
+https://htmlpreview.github.io/?https://github.com/Mileriss/Pagina-de-Apresentacao/blob/master/HTML/pagina_principal.html  
 
 # Habilidades  
 <b>Observação:</b> Eu ainda estou no nível básico e aprendendo sobre as linguagens e bibliotecas abaixo, não há projetos relevantes (ainda) mas estou providenciando e logo terá novidades.
