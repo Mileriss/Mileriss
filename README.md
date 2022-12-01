@@ -1,3 +1,17 @@
+<!--TESTES DE NOVOS WIDGETS-->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mileriss&include_all_commits=true&count_private=true&show_icons=true&line_height=20&locale=pt-br&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Minha estatistica do Github"/>
+
+
+<img align="center" src="https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Minha estatistica do Github"/>
+
+
+
+
+
+
+
+
 # Quem sou eu...
 :ok_man: Olá, sou o Rafael Mileris!  
 :mortar_board: Estou finalizando o 3º Semestre da graduação de Análise e Desenvolvimento de Sistemas.  
@@ -21,6 +35,14 @@ https://htmlpreview.github.io/?https://github.com/Mileriss/Pagina-de-Apresentaca
 <a ref="https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/" target="_blank"><img align="center" alt="Git-RafaelMileris" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 </div>
  
+ # Cursos  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Python&theme=react)](https://github.com/Mileriss/Curso_Python)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Pandas&theme=react)](https://github.com/Mileriss/Curso_Pandas)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_UML&theme=react)](https://github.com/Mileriss/Curso_UML)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_GIT&theme=react)](https://github.com/Mileriss/Curso_GIT)
+ 
+ 
+ 
 # Onde me encontrar
 Se você gostou do meu perfil e quer conversar mais, seja para serviços, projetos ou compartilhar experiências, por favor, entre em contato através de um dos icones abaixo ⤵️  
 
@@ -32,7 +54,7 @@ Se você gostou do meu perfil e quer conversar mais, seja para serviços, projet
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&)](https://github.com/Mileriss?tab=repositories)-->
 
-![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br) 
+![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://github.com/Mileriss?tab=repositories) 
 
 [![Mileriss github activity graph](https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react&locale=pt-br)](https://github.com/Mileriss?tab=repositories)
