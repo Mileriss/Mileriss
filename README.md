@@ -38,10 +38,12 @@ Se você gostou do meu perfil e quer conversar mais, seja para serviços, projet
 <a href="https://github.com/Mileriss" target="_blank">![GitHub Rafael Mileris]( https://img.shields.io/github/followers/Mileriss?label=follow&style=social)</a>
 
 # Estatísticas
+<!--![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br)-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://github.com/Mileriss?tab=repositories)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&">
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&)](https://github.com/Mileriss?tab=repositories)-->
-
-![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://github.com/Mileriss?tab=repositories)  
 
 [![Mileriss github activity graph](https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react&locale=pt-br)](https://github.com/Mileriss?tab=repositories)
