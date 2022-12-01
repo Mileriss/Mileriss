@@ -24,6 +24,9 @@ https://htmlpreview.github.io/?https://github.com/Mileriss/Pagina-de-Apresentaca
  
  
  # Cursos  
+ Estes são alguns cursos que eu realizei.  
+ Deixei eles como repositórios porque acredito que em algum momento poderá ajudar alguém.  
+ 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Python&theme=react)](https://github.com/Mileriss/Curso_Python)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Pandas&theme=react)](https://github.com/Mileriss/Curso_Pandas)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_UML&theme=react)](https://github.com/Mileriss/Curso_UML)
@@ -40,8 +43,8 @@ Se você gostou do meu perfil e quer conversar mais, seja para serviços, projet
 # Estatísticas
 <!--![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br)-->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://github.com/Mileriss?tab=repositories)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br)](https://github.com/Mileriss?tab=repositories)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br)](https://github.com/Mileriss?tab=repositories)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://github.com/Mileriss?tab=repositories) ![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br)
 
-[![Mileriss github activity graph](https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react&locale=pt-br)](https://github.com/Mileriss?tab=repositories)
+[![Mileriss github activity graph](https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react-dark&locale=pt-br)](https://github.com/Mileriss?tab=repositories)
