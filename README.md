@@ -1,4 +1,4 @@
-# Quem sou eu...
+# Quem sou eu... :point_down:  
 :ok_man: Olá, sou o Rafael Mileris!  
 :mortar_board: Estou finalizando o 3º Semestre da graduação de Análise e Desenvolvimento de Sistemas.  
 :dart: Tenho objetivo de me tornar um desenvolvedor Full-stack, mas por enquanto estou focando na parte de Back-end.  
@@ -6,15 +6,15 @@
 :office: Estou procurando uma vaga de estágio em desenvolvimento...  
 
 
-# Página de apresentação  
-:computer: Visite a minha página de apresentação através do link abaixo:  
+# Página de apresentação :computer:  
+Visite a minha página de apresentação através do link abaixo:  
 
 <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Pagina-de-Apresentacao/blob/master/HTML/pagina_principal.html"><b>Página de apresentação - Rafael Mileris</b></a>  
 
 *Obs: Caso a página não exiba o conteudo dos projetos, por favor, atualize a página!
 
 
-# Habilidades  
+# Habilidades :brain:  
 <b>Observação:</b> Eu ainda estou no nível básico e aprendendo sobre as linguagens e bibliotecas abaixo, não há projetos relevantes (ainda) mas estou providenciando e logo terá novidades.
 <div style="display:inline-block">
 <a href="https://www.w3schools.com/python/" target="_blank"><img align="center" alt="Python-RafaelMileris" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
@@ -25,24 +25,38 @@
 </div>
  
  
- # Cursos  
+ # Cursos :books:  
  Estes são alguns cursos que eu realizei.  
  Deixei eles como repositórios porque acredito que em algum momento poderá ajudar alguém.  
  
+<table align="center">
+ <thead>
+ </thead>
+ <tbody align="center">
+  <tr>
+   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Python&theme=react"></td>
+   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Pandas&theme=react"></td>
+  </tr>
+  <tr>
+   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_GIT&theme=react"></td>
+   <td><b>Em breve...</b></td>
+ </tbody>
+</table>
+ 
+<!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Python&theme=react)](https://github.com/Mileriss/Curso_Python)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Pandas&theme=react)](https://github.com/Mileriss/Curso_Pandas)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_UML&theme=react)](https://github.com/Mileriss/Curso_UML)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_GIT&theme=react)](https://github.com/Mileriss/Curso_GIT)
-
+-->
  
-# Onde me encontrar
+# Onde me encontrar :mailbox_with_no_mail:  
 Se você gostou do meu perfil e quer conversar mais, seja para serviços, projetos ou compartilhar experiências, por favor, entre em contato através de um dos icones abaixo ⤵️  
 
 <a href="https://www.linkedin.com/in/rafael-mileris-a808b7239" target="_blank">![Linkedin: Rafael Mileris](https://img.shields.io/badge/-RafaelMileris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-mileris-a808b7239)</a>
 <a href="mailto:rafaelmileris15@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rafaelmileris15@gmail.com)</a>
 <a href="https://github.com/Mileriss" target="_blank">![GitHub Rafael Mileris]( https://img.shields.io/github/followers/Mileriss?label=follow&style=social)</a>
 
-# Estatísticas
+# Estatísticas :chart_with_upwards_trend:  
 
 <div align="center">
 
