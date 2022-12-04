@@ -8,8 +8,10 @@
 
 # Página de apresentação  
 :computer: Visite a minha página de apresentação através do link abaixo:  
-https://htmlpreview.github.io/?https://github.com/Mileriss/Pagina-de-Apresentacao/blob/master/HTML/pagina_principal.html  
-*Obs: Caso a página não exiba o conteudo dos projetos, por favor, feche e abra novamente!  
+
+<a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Pagina-de-Apresentacao/blob/master/HTML/pagina_principal.html"><b>Página de apresentação - Rafael Mileris</b></a>  
+
+*Obs: Caso a página não exiba o conteudo dos projetos, por favor, atualize a página!
 
 
 # Habilidades  
@@ -41,10 +43,14 @@ Se você gostou do meu perfil e quer conversar mais, seja para serviços, projet
 <a href="https://github.com/Mileriss" target="_blank">![GitHub Rafael Mileris]( https://img.shields.io/github/followers/Mileriss?label=follow&style=social)</a>
 
 # Estatísticas
-<!--![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br)-->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br)](https://github.com/Mileriss?tab=repositories)-->
+<div align="center">
+
+![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://github.com/Mileriss?tab=repositories)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br)](https://github.com/Mileriss?tab=repositories)
 
 [![Mileriss github activity graph](https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react-dark&locale=pt-br)](https://github.com/Mileriss?tab=repositories)
+</div>
