@@ -63,10 +63,10 @@ Se você gostou do meu perfil e quer conversar mais, seja para serviços, projet
 
 # Estatísticas :chart_with_upwards_trend:  
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br">  <br>
- <img src="https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D">  <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br">  <br>
- <img src="https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react-dark&locale=pt-br" alt="Gráfico de atividade">  <br>
+ <img src="https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br" href="https://github.com/Mileriss?tab=repositories" target="_blank">  <br>
+ <img src="https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" href="https://github.com/Mileriss?tab=repositories" target="_blank">  <br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br" href="https://github.com/Mileriss?tab=repositories" target="_blank">  <br>
+ <img src="https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react-dark&locale=pt-br" alt="Gráfico de atividade" href="https://github.com/Mileriss?tab=repositories" target="_blank">  <br>
 
  <!--![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://github.com/Mileriss?tab=repositories)  
