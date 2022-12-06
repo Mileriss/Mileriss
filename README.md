@@ -35,11 +35,15 @@ Visite a minha página de apresentação através do link abaixo:
  </thead>
  <tbody align="center">
   <tr>
-   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Python&theme=react"></td>
-   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Pandas&theme=react"></td>
+   <td>
+     <a href="https://github.com/Mileriss/Curso_Python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Python&theme=react"></a>    </td>
+   <td>
+     <a href="https://github.com/Mileriss/Curso_Pandas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Pandas&theme=react"></a>    </td>
   </tr>
   <tr>
-   <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_GIT&theme=react"></td>
+   <td>
+    <a href="https://github.com/Mileriss/Curso_GIT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_GIT&theme=react"></a>
+   </td>
    <td><b>Em breve...</b></td>
  </tbody>
 </table>
@@ -55,18 +59,20 @@ Visite a minha página de apresentação através do link abaixo:
 # Onde me encontrar :mailbox_with_no_mail:  
 Se você gostou do meu perfil e quer conversar mais, seja para serviços, projetos ou compartilhar experiências, por favor, entre em contato através de um dos icones abaixo ⤵️  
 
-<a href="https://www.linkedin.com/in/rafael-mileris-a808b7239" target="_blank">![Linkedin: Rafael Mileris](https://img.shields.io/badge/-RafaelMileris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-mileris-a808b7239)</a>
-<a href="mailto:rafaelmileris15@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rafaelmileris15@gmail.com)</a>
-<a href="https://github.com/Mileriss" target="_blank">![GitHub Rafael Mileris]( https://img.shields.io/github/followers/Mileriss?label=follow&style=social)</a>
+<a href="https://www.linkedin.com/in/rafael-mileris-a808b7239" target="_blank"><img src="https://img.shields.io/badge/-RafaelMileris-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+
+<a href="mailto:rafaelmileris15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"></a>
+ 
+<a href="https://github.com/Mileriss" target="_blank"><img src="https://img.shields.io/github/followers/Mileriss?label=follow&style=social"></a>
 
 <hr>
 
 # Estatísticas :chart_with_upwards_trend:  
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br" href="https://github.com/Mileriss?tab=repositories" target="_blank">  <br>
- <img src="https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" href="https://github.com/Mileriss?tab=repositories" target="_blank">  <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br" href="https://github.com/Mileriss?tab=repositories" target="_blank">  <br>
- <img src="https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react-dark&locale=pt-br" alt="Gráfico de atividade" href="https://github.com/Mileriss?tab=repositories" target="_blank">  <br>
+ <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br"></a>  <br>
+ <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D"></a>  <br>
+ <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br"></a>  <br>
+ <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react-dark&locale=pt-br" alt="Gráfico de atividade"></a>  <br>
 
  <!--![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://github.com/Mileriss?tab=repositories)  
