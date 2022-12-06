@@ -16,6 +16,7 @@ Visite a minha página de apresentação através do link abaixo:
 
 # Habilidades :brain:  
 <b>Observação:</b> Eu ainda estou no nível básico e aprendendo sobre as linguagens e bibliotecas abaixo, não há projetos relevantes (ainda) mas estou providenciando e logo terá novidades.
+
 <div style="display:inline-block">
 <a href="https://www.w3schools.com/python/" target="_blank"><img align="center" alt="Python-RafaelMileris" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="HTML5-RafaelMileris" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
@@ -59,11 +60,11 @@ Visite a minha página de apresentação através do link abaixo:
 # Onde me encontrar :mailbox_with_no_mail:  
 Se você gostou do meu perfil e quer conversar mais, seja para serviços, projetos ou compartilhar experiências, por favor, entre em contato através de um dos icones abaixo ⤵️  
 
+<div style="display:inline-block">
 <a href="https://www.linkedin.com/in/rafael-mileris-a808b7239" target="_blank"><img src="https://img.shields.io/badge/-RafaelMileris-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-
 <a href="mailto:rafaelmileris15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"></a>
- 
 <a href="https://github.com/Mileriss" target="_blank"><img src="https://img.shields.io/github/followers/Mileriss?label=follow&style=social"></a>
+</div>
 
 <hr>
 
