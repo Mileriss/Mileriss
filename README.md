@@ -70,10 +70,10 @@ Se você gostou do meu perfil e quer conversar mais, seja para serviços, projet
 
 # Estatísticas :chart_with_upwards_trend:  
 <div align="center">
- <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br"></a>  <br>
- <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D"></a>  <br>
- <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br"></a>  <br>
- <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react-dark&locale=pt-br" alt="Gráfico de atividade"></a>  <br>
+ <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>  <br>
+ <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" alt="Estatisticas Github Rafael Mileris"></a>  <br>
+ <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>  <br>
+ <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mileriss&theme=react-dark" alt="Gráfico de atividade"></a>  <br>
 
  <!--![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://github.com/Mileriss?tab=repositories)  
