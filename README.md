@@ -43,9 +43,15 @@ Visite a minha página de apresentação através do link abaixo:
   </tr>
   <tr>
    <td>
+    <a href="https://github.com/Mileriss/Curso_Python_POO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Python_POO&theme=react"></a>
+   </td>
+   <td>
     <a href="https://github.com/Mileriss/Curso_GIT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_GIT&theme=react"></a>
    </td>
-   <td><b>Em breve...</b></td>
+   <tr>
+    <td><b>Em breve...</b></td>
+    <td><b>Em breve...</b></td>
+  </tr>
  </tbody>
 </table>
  
