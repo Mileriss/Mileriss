@@ -18,11 +18,14 @@ Visite a minha página de apresentação através do link abaixo:
 <b>Observação:</b> Eu ainda estou no nível básico e aprendendo sobre as linguagens e bibliotecas abaixo, não há projetos relevantes (ainda) mas estou providenciando e logo terá novidades.
 
 <div style="display:inline-block">
-<a href="https://www.w3schools.com/python/" target="_blank"><img align="center" alt="Python-RafaelMileris" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
-<a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="HTML5-RafaelMileris" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS3-RafaelMileris" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-<a href="https://learn.microsoft.com/pt-br/training/paths/create-use-analytics-reports-power-bi/" target="_blank"><img align="center" alt="CSS3-RafaelMileris" height="50px" width="50px" src="https://img.icons8.com/color/344/power-bi.png"></a>
-<a ref="https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/" target="_blank"><img align="center" alt="Git-RafaelMileris" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+<a href="https://www.w3schools.com/python/" target="_blank"><img align="center" alt="Python-RafaelMileris" height="40px" width="40px" src="https://www.svgrepo.com/show/354238/python.svg" title="Python"></a>
+<a ref="https://www.w3schools.com/python/pandas/default.asp" target="_blank"><img align="center" alt="Pandas-RafaelMileris" height="40px" width="40px" src="https://www.svgrepo.com/show/229252/panda.svg" title="Biblioteca Python - Pandas"></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="HTML5-RafaelMileris" height="40px" width="40px" src="https://www.svgrepo.com/show/349402/html5.svg" title="HTML5"></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS3-RafaelMileris" height="40px" width="40px" src="https://www.svgrepo.com/show/349330/css3.svg" title="CSS3"></a>
+<a ref="https://www.w3schools.com/bootstrap5/index.php" target="_blank"><img align="center" alt="Bootstrap-RafaelMileris" height="40px" width="40px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" title="Bootstrap"></a>
+<a href="https://learn.microsoft.com/pt-br/training/paths/create-use-analytics-reports-power-bi/" target="_blank"><img align="center" alt="CSS3-RafaelMileris" height="50px" width="50px" src="https://img.icons8.com/color/344/power-bi.png" title="Microsoft Power BI"></a>
+<a ref="https://www.w3schools.com/sql/" target="_blank"><img align="center" alt="SQL-RafaelMileris" height="40px" width="40px" src="https://www.svgrepo.com/show/355133/mysql.svg" title="Banco de dados - SQL"></a>
+<a ref="https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/" target="_blank"><img align="center" alt="Git-RafaelMileris" height="40px" width="40px" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="GIT"></a>
 </div>
  
  <hr>
