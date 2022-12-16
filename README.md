@@ -4,6 +4,10 @@
 :dart: Tenho objetivo de me tornar um desenvolvedor Full-stack, mas por enquanto estou focando na parte de Back-end.  
 :books: Atualmente estou estudando sobre Python, HTML, Css, Power BI e trabalhando em alguns projetos pessoais.  
 :office: Estou procurando uma vaga de estágio em desenvolvimento...  
+:city_sunset: Sou muito fã de ambientes no estilo Cyberpunk em Pixel-Art, igual na imagem abaixo:  
+<br>
+<img align="center" src="https://www.wykop.pl/cdn/c3201142/comment_hUH7dxvwhjP5Da7chrGXXnw0NAbJGu49.gif" style="width: 80%">  
+*Obs - Imagem retirada da internet
 
 <hr>
 
@@ -78,17 +82,42 @@ Se você gostou do meu perfil e quer conversar mais, seja para serviços, projet
 <hr>
 
 # Estatísticas :chart_with_upwards_trend:  
-<div align="center">
+<!--<div align="center">
  <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>  <br>
  <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" alt="Estatisticas Github Rafael Mileris"></a>  <br>
  <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>  <br>
  <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mileriss&theme=react-dark" alt="Gráfico de atividade"></a>  <br>
 
- <!--![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br)  
+ ![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://github.com/Mileriss?tab=repositories)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br)](https://github.com/Mileriss?tab=repositories)  
-[![Mileriss github activity graph](https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react-dark&locale=pt-br)](https://github.com/Mileriss?tab=repositories)-->
+[![Mileriss github activity graph](https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react-dark&locale=pt-br)](https://github.com/Mileriss?tab=repositories)
  
-</div>
+</div>-->
 
-<hr>
+<div align="center">
+ <table align='center'>
+  <thead>
+  </thead>
+  <tbody align='center'>
+   <tr>
+    <td>
+     <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
+    </td>
+    <td>
+     <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" alt="Estatisticas Github Rafael Mileris"></a>
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
+    </td>
+    <td>
+     <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=compact&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
+     <!--<a href="https://github.com/mileriss/github-readme-stats" target="_blank"><img src="https://profile-counter.glitch.me/{mileriss}/count.svg" alt="Rafael Mileris :: Visitor's Count"/>-->
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mileriss&theme=react-dark" alt="Gráfico de atividade"></a>
+</div>
