@@ -46,7 +46,8 @@ Visite a minha página de apresentação através do link abaixo:
    <td>
      <a href="https://github.com/Mileriss/Curso_Python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Python&theme=react"></a>    </td>
    <td>
-     <a href="https://github.com/Mileriss/Curso_Pandas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Pandas&theme=react"></a>    </td>
+     <a href="https://github.com/Mileriss/Curso_SQL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_SQL&theme=react"></a>
+   </td>
   </tr>
   <tr>
    <td>
