@@ -1,6 +1,6 @@
 # Quem sou eu... :point_down:  
 :ok_man: Olá, sou o Rafael Mileris!  
-:mortar_board: Estou finalizando o 3º Semestre da graduação de Análise e Desenvolvimento de Sistemas.  
+:mortar_board: Estou cursando o 4º Semestre da graduação de Análise e Desenvolvimento de Sistemas.  
 :dart: Tenho objetivo de me tornar um desenvolvedor Full-stack, mas por enquanto estou focando na parte de Back-end.  
 :books: Atualmente estou estudando sobre Python, HTML, Css, Power BI e trabalhando em alguns projetos pessoais.  
 :office: Estou procurando uma vaga de estágio em desenvolvimento...  
