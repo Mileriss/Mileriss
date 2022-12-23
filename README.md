@@ -8,19 +8,16 @@
    <img src="https://github.com/Mileriss/Canva_imagens/blob/main/rafael%20mileris%203.png?raw=true" alt="Nome de usuário: Rafael Mileris" title="imagem de fundo 'Rafael Mileris'">
   </td>
   </tr>
-   <tr>
-  <td>
-   <p>
-   :ok_man: Olá, sou o Rafael Mileris!  <br>
-   :mortar_board: Estou cursando o 4º Semestre da graduação de Análise e Desenvolvimento de Sistemas.  <br>
-   :dart: Tenho objetivo de me tornar um desenvolvedor Full-stack, mas por enquanto estou focando na parte de Back-end.  <br>
-   :books: Atualmente estou estudando sobre Python, HTML, Css, Power BI e trabalhando em alguns projetos pessoais.  <br>
-   :office: Estou procurando uma vaga de estágio em desenvolvimento...  <br>
-   </p>
-  </td>
- </tr>
  </tbody>
  </table>
+
+<br>
+:ok_man: Olá, sou o Rafael Mileris!  <br>
+:mortar_board: Estou cursando o 4º Semestre da graduação de Análise e Desenvolvimento de Sistemas.  <br>
+:dart: Tenho objetivo de me tornar um desenvolvedor Full-stack, mas por enquanto estou focando na parte de Back-end.  <br>
+:books: Atualmente estou estudando sobre Python, HTML, Css, Power BI e trabalhando em alguns projetos pessoais.  <br>
+:office: Estou procurando uma vaga de estágio em desenvolvimento...  <br>
+
 <br>
 <!--<img align="center" src="https://www.wykop.pl/cdn/c3201142/comment_hUH7dxvwhjP5Da7chrGXXnw0NAbJGu49.gif" style="width: 80%">-->
 
