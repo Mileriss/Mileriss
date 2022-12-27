@@ -71,9 +71,9 @@ Visite a minha página de apresentação através do link abaixo:
   </tr>
     <tr>
    <td>
-     <a href="https://github.com/Mileriss/Curso_Python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_HTML&theme=react"></a>    </td>
+     <a href="https://github.com/Mileriss/Curso_HTML"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_HTML&theme=react"></a>    </td>
    <td>
-     <a href="https://github.com/Mileriss/Curso_SQL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_CSS&theme=react"></a>
+     <a href="https://github.com/Mileriss/Curso_CSS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_CSS&theme=react"></a>
    </td>
   </tr>
    <tr>
