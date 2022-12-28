@@ -77,7 +77,7 @@ Visite a minha página de apresentação através do link abaixo:
    </td>
   </tr>
    <tr>
-    <td><b>Em breve...</b></td>
+    <td><a href="https://github.com/Mileriss/Curso_Javascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Javascript&theme=react"></a></td>
     <td><b>Em breve...</b></td>
   </tr>
  </tbody>
