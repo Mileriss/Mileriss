@@ -5,7 +5,7 @@
  <tbody>
  <tr>
   <td align="center">
-   <img src="https://github.com/Mileriss/Canva_imagens/blob/main/rafael%20mileris%203.png?raw=true" alt="Nome de usuário: Rafael Mileris" title="imagem de fundo 'Rafael Mileris'">
+   <img src="https://github.com/Mileriss/Canva_imagens/blob/main/rafael_mileris.png?raw=true" alt="Nome de usuário: Rafael Mileris" title="imagem de fundo 'Rafael Mileris'">
   </td>
   </tr>
  </tbody>
