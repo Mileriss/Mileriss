@@ -57,28 +57,28 @@ Visite a minha página de apresentação através do link abaixo:
  <tbody align="center">
   <tr>
    <td>
-     <a href="https://github.com/Mileriss/Curso_Python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Python&theme=react"></a>    </td>
+     <a href="https://github.com/Mileriss/Curso_Python"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_Python&theme=react"></a>    </td>
    <td>
-     <a href="https://github.com/Mileriss/Curso_SQL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_SQL&theme=react"></a>
+     <a href="https://github.com/Mileriss/Curso_SQL"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_SQL&theme=react"></a>
    </td>
   </tr>
   <tr>
    <td>
-    <a href="https://github.com/Mileriss/Curso_Python_POO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Python_POO&theme=react"></a>
+    <a href="https://github.com/Mileriss/Curso_Python_POO"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_Python_POO&theme=react"></a>
    </td>
    <td>
-    <a href="https://github.com/Mileriss/Curso_GIT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_GIT&theme=react"></a>
+    <a href="https://github.com/Mileriss/Curso_GIT"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_GIT&theme=react"></a>
    </td>
   </tr>
     <tr>
    <td>
-     <a href="https://github.com/Mileriss/Curso_HTML"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_HTML&theme=react"></a>    </td>
+     <a href="https://github.com/Mileriss/Curso_HTML"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_HTML&theme=react"></a>    </td>
    <td>
-     <a href="https://github.com/Mileriss/Curso_CSS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_CSS&theme=react"></a>
+     <a href="https://github.com/Mileriss/Curso_CSS"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_CSS&theme=react"></a>
    </td>
   </tr>
    <tr>
-    <td><a href="https://github.com/Mileriss/Curso_Javascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Javascript&theme=react"></a></td>
+    <td><a href="https://github.com/Mileriss/Curso_Javascript"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_Javascript&theme=react"></a></td>
     <td><b>Em breve...</b></td>
   </tr>
  </tbody>
@@ -124,7 +124,7 @@ Se você gostou do meu perfil e quer conversar mais, seja para serviços, projet
   <tbody align='center'>
    <tr>
     <td>
-     <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
+     <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
     </td>
     <td>
      <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" alt="Estatisticas Github Rafael Mileris"></a>
@@ -132,10 +132,10 @@ Se você gostou do meu perfil e quer conversar mais, seja para serviços, projet
    </tr>
    <tr>
     <td>
-     <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
+     <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
     </td>
     <td>
-     <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=compact&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
+     <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mileriss&langs_count=compact&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
      <!--<a href="https://github.com/mileriss/github-readme-stats" target="_blank"><img src="https://profile-counter.glitch.me/{mileriss}/count.svg" alt="Rafael Mileris :: Visitor's Count"/>-->
     </td>
    </tr>
