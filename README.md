@@ -135,7 +135,7 @@ Se você gostou do meu perfil e quer conversar mais, seja para serviços, projet
      <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
     </td>
     <td>
-     <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mileriss&langs_count=compact&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
+     <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mileriss&layout=compact&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
      <!--<a href="https://github.com/mileriss/github-readme-stats" target="_blank"><img src="https://profile-counter.glitch.me/{mileriss}/count.svg" alt="Rafael Mileris :: Visitor's Count"/>-->
     </td>
    </tr>
