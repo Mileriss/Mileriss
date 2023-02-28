@@ -57,7 +57,7 @@ Visite a minha página de apresentação através do link abaixo:
  <tbody align="center">
   <tr>
    <td>
-     <a href="https://github.com/Mileriss/Curso_Python"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_Python&theme=react"></a>    </td>
+     <a href="https://github.com/Mileriss/Curso_Python"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_Python&theme=react"></a></td>
    <td>
      <a href="https://github.com/Mileriss/Curso_SQL"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_SQL&theme=react"></a>
    </td>
@@ -72,14 +72,17 @@ Visite a minha página de apresentação através do link abaixo:
   </tr>
     <tr>
    <td>
-     <a href="https://github.com/Mileriss/Curso_HTML"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_HTML&theme=react"></a>    </td>
+     <a href="https://github.com/Mileriss/Curso_HTML"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_HTML&theme=react"></a></td>
    <td>
      <a href="https://github.com/Mileriss/Curso_CSS"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_CSS&theme=react"></a>
    </td>
   </tr>
    <tr>
     <td><a href="https://github.com/Mileriss/Curso_Javascript"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_Javascript&theme=react"></a></td>
+    <td><a href="https://github.com/Mileriss/Curso_JQuery"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_JQuery&theme=react"></a></td>
+    <tr>
     <td><b>Em breve...</b></td>
+     <td><b>Em breve...</b></td>
   </tr>
  </tbody>
 </table>
