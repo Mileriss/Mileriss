@@ -9,9 +9,11 @@
 <h1>Contato :calling:</h1>  
 <p>Recomendo que você visite o meu Linkedin para ver informações atualizadas sobre o meu perfil pessoal!</p>  
 <div style="display:inline-block">
-   <a href="https://www.linkedin.com/in/rafael-mileris-a808b7239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="mailto:rafaelmileris15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://github.com/Mileriss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rafael-mileris-a808b7239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=5511994521196"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="mailto:rafaelmileris15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://discord.com/channels/Rafael Mileris#2296" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://github.com/Mileriss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <!--Habilidades atuais-->
