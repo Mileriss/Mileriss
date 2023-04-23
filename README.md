@@ -34,28 +34,25 @@
   <tbody align='center'>
  <tr>
   <td>
-   <h2>Lista de tarefas </h2>  
-   <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Google_logo_%282013-2015%29.svg/1200px-Google_logo_%282013-2015%29.svg.png"> <br> 
-<a href="https://github.com/Mileriss/Lista_de_tarefas"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_JQuery&theme=react">  <br>
- <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Lista_de_tarefas/blob/main/index.html">Link para acessar a página</a> <br>
+   <h2>Lista de tarefas</h2>  
+   <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Lista_de_tarefas/blob/main/index.html"><img height="500px" style="border-radius:20px" src="https://github.com/Mileriss/Canva_imagens/blob/main/Lista_Tarefas.png?raw=true"></a> <br> 
+<a href="https://github.com/Mileriss/Lista_de_tarefas"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Lista_de_tarefas&theme=react">  <br>
  </td>
      <td>
-   <h2>Lista de tarefas </h2>  
-   <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Google_logo_%282013-2015%29.svg/1200px-Google_logo_%282013-2015%29.svg.png"> <br> 
-<a href="https://github.com/Mileriss/Lista_de_tarefas"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_JQuery&theme=react">  <br>
- <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Lista_de_tarefas/blob/main/index.html">Link para acessar a página</a> <br>
+   <h2>Formulário Synthwave</h2>  
+   <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Formulario_Synthwave/blob/main/formulario.html"><img height="500px" src="https://github.com/Mileriss/Canva_imagens/blob/main/Formulario_Synthwave.png?raw=true"></a><br> 
+<a href="https://github.com/Mileriss/Formulario_Synthwave"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Formulario_Synthwave&theme=react">  <br>
  </td>
  </tr>
    <tr>
       <td>
-   <h2>Lista de tarefas </h2>  
-   <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Google_logo_%282013-2015%29.svg/1200px-Google_logo_%282013-2015%29.svg.png"> <br> 
-<a href="https://github.com/Mileriss/Lista_de_tarefas"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_JQuery&theme=react">  <br>
- <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Lista_de_tarefas/blob/main/index.html">Link para acessar a página</a> <br>
+   <h2>Página TalkD</h2>  
+   <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Landing_Page_TalkD/blob/main/pag_inicial.html"><img height="300px" src="https://github.com/Mileriss/Canva_imagens/blob/main/Pagina_TalkD.png?raw=true"></a> <br> 
+<a href="https://github.com/Mileriss/Landing_Page_TalkD"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Landing_Page_TalkD&theme=react">  <br>
  </td>
-         <td>
-   <h2>Lista de tarefas </h2>  
-   <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Google_logo_%282013-2015%29.svg/1200px-Google_logo_%282013-2015%29.svg.png"> <br> 
+       <td>
+   <h2>Página TalkD</h2>  
+   <img height="300px" src="https://github.com/Mileriss/Canva_imagens/blob/main/Pagina_TalkD.png?raw=true"> <br> 
 <a href="https://github.com/Mileriss/Lista_de_tarefas"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_JQuery&theme=react">  <br>
  <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Lista_de_tarefas/blob/main/index.html">Link para acessar a página</a> <br>
  </td>
