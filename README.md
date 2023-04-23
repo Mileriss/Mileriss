@@ -29,6 +29,40 @@
 <a href="https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/" target="_blank"><img align="center" alt="Git-RafaelMileris" height="40px" width="40px" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="GIT"></a>
 </div>
 
+## Projetos :desktop_computer:  
+ <table align='center'>
+  <tbody align='center'>
+ <tr>
+  <td>
+   <h2>Lista de tarefas </h2>  
+   <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Google_logo_%282013-2015%29.svg/1200px-Google_logo_%282013-2015%29.svg.png"> <br> 
+<a href="https://github.com/Mileriss/Lista_de_tarefas"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_JQuery&theme=react">  <br>
+ <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Lista_de_tarefas/blob/main/index.html">Link para acessar a página</a> <br>
+ </td>
+     <td>
+   <h2>Lista de tarefas </h2>  
+   <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Google_logo_%282013-2015%29.svg/1200px-Google_logo_%282013-2015%29.svg.png"> <br> 
+<a href="https://github.com/Mileriss/Lista_de_tarefas"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_JQuery&theme=react">  <br>
+ <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Lista_de_tarefas/blob/main/index.html">Link para acessar a página</a> <br>
+ </td>
+ </tr>
+   <tr>
+      <td>
+   <h2>Lista de tarefas </h2>  
+   <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Google_logo_%282013-2015%29.svg/1200px-Google_logo_%282013-2015%29.svg.png"> <br> 
+<a href="https://github.com/Mileriss/Lista_de_tarefas"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_JQuery&theme=react">  <br>
+ <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Lista_de_tarefas/blob/main/index.html">Link para acessar a página</a> <br>
+ </td>
+         <td>
+   <h2>Lista de tarefas </h2>  
+   <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Google_logo_%282013-2015%29.svg/1200px-Google_logo_%282013-2015%29.svg.png"> <br> 
+<a href="https://github.com/Mileriss/Lista_de_tarefas"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_JQuery&theme=react">  <br>
+ <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Lista_de_tarefas/blob/main/index.html">Link para acessar a página</a> <br>
+ </td>
+   </tr>
+     </tbody>
+ </table>
+
 <!--Estatisticas detalhadas-->
 # Estatísticas :chart_with_upwards_trend:  
 
