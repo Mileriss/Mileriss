@@ -1,12 +1,13 @@
 <!--Apresentação de perfil-->
-# Quem sou eu... :point_down:  
-:ok_man: Olá, sou o Rafael Mileris!  
-:mortar_board: Estou cursando o 4º Semestre da graduação de Análise e Desenvolvimento de Sistemas.  
-:dart: Tenho objetivo de me tornar um desenvolvedor Full-stack, mas por enquanto estou focando na parte de Front-end.  
-:books: Atualmente estou estudando sobre HTML, CSS, Javascript e criando pequenos projetos no meu tempo livre.  
-:office: Estou procurando uma vaga como Programador Junior.  
+<h1>Quem sou eu... :point_down:</h1>  
+:ok_man: Olá, sou o Rafael Mileris! <br>
+:mortar_board: Estou cursando o 4º Semestre da graduação de Análise e Desenvolvimento de Sistemas. <br>
+:dart: Tenho objetivo de me tornar um desenvolvedor Full-stack, mas por enquanto estou focando na parte de Front-end. <br>
+:books: Atualmente estou estudando sobre HTML, CSS, Javascript e criando pequenos projetos no meu tempo livre. <br>
+:office: Estou procurando uma vaga como Programador Junior. <br>
 
-<!--Redes Sociais-->
+<h1>Contato :calling:</h1>  
+<p>Recomendo que você visite o meu Linkedin para ver informações atualizadas sobre o meu perfil pessoal!</p>  
 <div style="display:inline-block">
    <a href="https://www.linkedin.com/in/rafael-mileris-a808b7239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:rafaelmileris15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -14,7 +15,7 @@
 </div>
 
 <!--Habilidades atuais-->
-# Habilidades :brain:  
+<h1>Habilidades :brain:</h1>  
 <b>Observação:</b> Eu ainda estou no nível básico e aprendendo sobre as linguagens e bibliotecas abaixo, não há projetos relevantes (ainda) mas estou providenciando e logo terá novidades.
 <div style="display:inline-block">
    <a href="https://www.w3schools.com/python/" target="_blank"><img align="center" alt="Python-RafaelMileris" height="40px" width="40px" src="https://www.svgrepo.com/show/354238/python.svg" title="Python"></a>
@@ -28,7 +29,9 @@
    <a href="https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/" target="_blank"><img align="center" alt="Git-RafaelMileris" height="40px" width="40px" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="GIT"></a>
 </div>
 
-# Projetos :desktop_computer:  
+<h1>Projetos :desktop_computer:</h1>    
+<p>Projetos que eu criei para praticar o uso das técnicas ensinadas nos cursos que realizei.</p>  
+<p>Nenhum projeto é copiado da internet, estes projetos eu criei do zero usando tudo que aprendi nos estudos e por isso estão muito simples e sem muito estilo. </p>  
 <table align='center'>
    <tbody align='center'>
       <tr>
@@ -59,21 +62,14 @@
    </tbody>
 </table>
 <!--Estatisticas detalhadas-->
-# Estatísticas :chart_with_upwards_trend:  
+<h1>Estatisticas :chart_with_upwards_trend:</h1>   
+<p>Informações detalhadas sobre as linguagens que utilizo e o progresso de commits dentro dos meus repositórios.</p>  
 <div align="center">
 <table align='center'>
 <tbody align='center'>
 <tr>
 <td>
-<a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
-</td>
-<td>
 <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" alt="Estatisticas Github Rafael Mileris"></a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
 </td>
 <td>
 <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mileriss&layout=compact&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
