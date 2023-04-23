@@ -1,35 +1,19 @@
-# Quem sou eu... :point_down:  
-<table align="center">
- <thead>
- </thead>
- <tbody>
- <tr>
-  <td align="center">
-   <img src="https://github.com/Mileriss/Canva_imagens/blob/main/rafael_mileris.png?raw=true" alt="Nome de usuário: Rafael Mileris" title="imagem de fundo 'Rafael Mileris'">
-  </td>
-  </tr>
- </tbody>
- </table>
+<!--Apresentação de perfil-->
+# Quem sou eu... :point_down: 
+:ok_man: Olá, sou o Rafael Mileris!  
+:mortar_board: Estou cursando o 4º Semestre da graduação de Análise e Desenvolvimento de Sistemas.  
+:dart: Tenho objetivo de me tornar um desenvolvedor Full-stack, mas por enquanto estou focando na parte de Front-end.  
+:books: Atualmente estou estudando sobre HTML, CSS, Javascript e criando pequenos projetos no meu tempo livre.  
+:office: Estou procurando uma vaga como Programador Junior.  
 
-<br>
-:ok_man: Olá, sou o Rafael Mileris!  <br>
-:mortar_board: Estou cursando o 4º Semestre da graduação de Análise e Desenvolvimento de Sistemas.  <br>
-:dart: Tenho objetivo de me tornar um desenvolvedor Full-stack, mas por enquanto estou focando na parte de Back-end.  <br>
-:books: Atualmente estou estudando sobre Python, HTML, Css, Power BI e trabalhando em alguns projetos pessoais.  <br>
-:office: Estou procurando uma vaga de estágio em desenvolvimento...  <br>
+<!--Redes Sociais-->
+<div style="display:inline-block">
+<a href="https://www.linkedin.com/in/rafael-mileris-a808b7239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:rafaelmileris15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Mileriss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 
-<br>
-<!--<img align="center" src="https://www.wykop.pl/cdn/c3201142/comment_hUH7dxvwhjP5Da7chrGXXnw0NAbJGu49.gif" style="width: 80%">-->
-
-<hr>
-
-# Página de apresentação :computer:  
-Visite a minha página de apresentação através do link abaixo:  
-<a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Pagina-de-Apresentacao/blob/master/HTML/pagina_principal.html"><b>Página de apresentação - Rafael Mileris</b></a>  
-*Obs: Caso a página não exiba o conteudo dos projetos, por favor, atualize a página!
-
-<hr>
-
+<!--Habilidades atuais-->
 # Habilidades :brain:  
 <b>Observação:</b> Eu ainda estou no nível básico e aprendendo sobre as linguagens e bibliotecas abaixo, não há projetos relevantes (ainda) mas estou providenciando e logo terá novidades.
 
@@ -44,86 +28,12 @@ Visite a minha página de apresentação através do link abaixo:
 <a href="https://www.w3schools.com/sql/" target="_blank"><img align="center" alt="SQL-RafaelMileris" height="40px" width="40px" src="https://www.svgrepo.com/show/355133/mysql.svg" title="Banco de dados - SQL"></a>
 <a href="https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/" target="_blank"><img align="center" alt="Git-RafaelMileris" height="40px" width="40px" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="GIT"></a>
 </div>
- 
- <hr>
- 
- # Cursos :books:  
- Estes são alguns cursos que eu realizei.  
- Deixei eles como repositórios porque acredito que em algum momento poderá ajudar alguém.  
- 
-<table align="center">
- <thead>
- </thead>
- <tbody align="center">
-  <tr>
-   <td>
-     <a href="https://github.com/Mileriss/Curso_Python"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_Python&theme=react"></a></td>
-   <td>
-     <a href="https://github.com/Mileriss/Curso_SQL"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_SQL&theme=react"></a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    <a href="https://github.com/Mileriss/Curso_Python_POO"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_Python_POO&theme=react"></a>
-   </td>
-   <td>
-    <a href="https://github.com/Mileriss/Curso_GIT"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_GIT&theme=react"></a>
-   </td>
-  </tr>
-    <tr>
-   <td>
-     <a href="https://github.com/Mileriss/Curso_HTML"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_HTML&theme=react"></a></td>
-   <td>
-     <a href="https://github.com/Mileriss/Curso_CSS"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_CSS&theme=react"></a>
-   </td>
-  </tr>
-   <tr>
-    <td><a href="https://github.com/Mileriss/Curso_Javascript"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_Javascript&theme=react"></a></td>
-    <td><a href="https://github.com/Mileriss/Curso_JQuery"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Curso_JQuery&theme=react"></a></td>
-    <tr>
-    <td><b>Em breve...</b></td>
-     <td><b>Em breve...</b></td>
-  </tr>
- </tbody>
-</table>
- 
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Python&theme=react)](https://github.com/Mileriss/Curso_Python)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_Pandas&theme=react)](https://github.com/Mileriss/Curso_Pandas)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mileriss&repo=Curso_GIT&theme=react)](https://github.com/Mileriss/Curso_GIT)
--->
 
-<hr>
- 
-# Onde me encontrar :mailbox_with_no_mail:  
-Se você gostou do meu perfil e quer conversar mais, seja para serviços, projetos ou compartilhar experiências, por favor, entre em contato através de um dos icones abaixo ⤵️  
-
-<div style="display:inline-block">
-<a href="https://www.linkedin.com/in/rafael-mileris-a808b7239" target="_blank"><img src="https://img.shields.io/badge/-RafaelMileris-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-<a href="mailto:rafaelmileris15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/Mileriss" target="_blank"><img src="https://img.shields.io/github/followers/Mileriss?label=follow&style=social"></a>
-</div>
-
-<hr>
-
+<!--Estatisticas detalhadas-->
 # Estatísticas :chart_with_upwards_trend:  
-<!--<div align="center">
- <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>  <br>
- <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" alt="Estatisticas Github Rafael Mileris"></a>  <br>
- <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>  <br>
- <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mileriss&theme=react-dark" alt="Gráfico de atividade"></a>  <br>
-
- ![Mileriss GitHub stats](https://github-readme-stats.vercel.app/api?username=mileriss&show_icons=true&theme=react&locale=pt-br)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mileriss&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://github.com/Mileriss?tab=repositories)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileriss&langs_count=10&theme=react&locale=pt-br)](https://github.com/Mileriss?tab=repositories)  
-[![Mileriss github activity graph](https://activity-graph.herokuapp.com/graph?username=Mileriss&theme=react-dark&locale=pt-br)](https://github.com/Mileriss?tab=repositories)
- 
-</div>-->
 
 <div align="center">
  <table align='center'>
-  <thead>
-  </thead>
   <tbody align='center'>
    <tr>
     <td>
@@ -139,10 +49,21 @@ Se você gostou do meu perfil e quer conversar mais, seja para serviços, projet
     </td>
     <td>
      <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mileriss&layout=compact&theme=react&locale=pt-br" alt="Estatisticas Github Rafael Mileris"></a>
-     <!--<a href="https://github.com/mileriss/github-readme-stats" target="_blank"><img src="https://profile-counter.glitch.me/{mileriss}/count.svg" alt="Rafael Mileris :: Visitor's Count"/>-->
     </td>
    </tr>
   </tbody>
  </table>
  <a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mileriss&theme=react-dark" alt="Gráfico de atividade"></a>
 </div>
+
+
+
+
+
+
+
+
+# Página de apresentação :computer:  
+Visite a minha página de apresentação através do link abaixo:  
+<a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Pagina-de-Apresentacao/blob/master/HTML/pagina_principal.html"><b>Página de apresentação - Rafael Mileris</b></a>  
+*Obs: Caso a página não exiba o conteudo dos projetos, por favor, atualize a página!
