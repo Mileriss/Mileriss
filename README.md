@@ -43,6 +43,8 @@
             <a href="https://github.com/Mileriss/Lista_de_tarefas">
                <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Lista_de_tarefas&theme=react">  <br>
          </td>
+      </tr>
+      <tr>
          <td>
          <h2>Formulário Synthwave</h2>  
          <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Formulario_Synthwave/blob/main/formulario.html"><img height="500px" src="https://github.com/Mileriss/Canva_imagens/blob/main/Formulario_Synthwave.png?raw=true"></a><br> 
@@ -55,6 +57,8 @@
       <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Landing_Page_TalkD/blob/main/pag_inicial.html"><img height="300px" src="https://github.com/Mileriss/Canva_imagens/blob/main/Pagina_TalkD.png?raw=true"></a> <br> 
       <a href="https://github.com/Mileriss/Landing_Page_TalkD"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Landing_Page_TalkD&theme=react">  <br>
       </td>
+      </tr>
+      <tr>
       <td>
       <h2>Página de apresentação #1</h2>  
       <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Pagina-de-Apresentacao/blob/master/HTML/pagina_principal.html"><img height="300px" src="https://github.com/Mileriss/Canva_imagens/blob/main/Pagina_Apresentacao.png?raw=true"></a> <br> 
