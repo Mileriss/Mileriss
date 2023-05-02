@@ -58,6 +58,39 @@
       </tr>
    </tbody>
 </table>
+
+<!--Treinamentos-->
+<h1>Treinamento :books:</h1>    
+<p>Praticas realizadas para fixar melhor os estudos que realizei em cursos, vídeos e etc...</p>
+<p>Deixo os repositorios disponíveis aqui na página inicial porque acredito que alguem poderá se beneficiar das minhas anotações.</p>
+<div align="center">
+   <table align="center">
+      <tbody align="center">
+         <tr>
+            <td>
+               <h2>Pratica Flexbox</h2>
+               <a href="https://github.com/Mileriss/Pratica_Flexbox"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Pratica_Flexbox&theme=react">
+            </td>
+            <td>
+               <h2>Pratica DOM</h2>
+               <a href="https://github.com/Mileriss/Pratica_HTML_DOM"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Pratica_HTML_DOM&theme=react">
+            </td>
+         </tr>
+         <tr>
+            <td>
+               <h2>Pratica GRID</h2>
+               <a href="https://github.com/Mileriss/Pratica_Grid_Layout"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Pratica_Grid_Layout&theme=react">
+            </td>
+               <td>
+                  <h2>Pratica Media Query</h2>
+                  <a href="https://github.com/Mileriss/Pratica_Media_Query"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Pratica_Media_Query&theme=react">
+            </td>
+         </tr>      
+      </tbody>
+   </table>
+</div>
+
+
 <!--Estatisticas detalhadas-->
 <h1>Estatisticas :chart_with_upwards_trend:</h1>   
 <p>Informações detalhadas sobre as linguagens que utilizo e o progresso de commits dentro dos meus repositórios.</p>  
