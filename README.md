@@ -49,7 +49,7 @@
       <tr>
         <td>
          <h2>Página TalkD</h2>  
-            <a href="https://github.com/Mileriss/Landing_Page_TalkD"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Landing_Page_TalkD&theme=react">
+            <a href="https://github.com/Mileriss/Landing_Page_TalkD"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mileriss&repo=Pagina-TalkD&theme=react">
       </td>
          <td>
             <h2>Página de apresentação #1</h2>  
