@@ -107,5 +107,5 @@
 </tr>
 </tbody>
 </table>
-<a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mileriss&theme=react-dark" alt="Gráfico de atividade"></a>
+<a href="https://github.com/Mileriss?tab=repositories" target="_blank"><img src="https://myreadme.vercel.app/api/embed/Mileriss?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark&locale=pt-br" alt="Estatisticas gerais Mileriss" /></a>
 </div>
