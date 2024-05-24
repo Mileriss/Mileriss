@@ -14,6 +14,6 @@
 <!--ESTATÍSTICAS-->
 <br clear="both">
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mileriss&locale=pt-br&mode=daily&theme=radical&hide_border=false&border_radius=5&language=pt-br" height="250" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mileriss&locale=pt-br&hide_title=false&layout=pie&card_width=320&langs_count=5&theme=radical&hide_border=false" height="500" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Mileriss&locale=enr&mode=daily&theme=radical&hide_border=false&border_radius=5&language=pt-br" height="250" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mileriss&locale=en&hide_title=false&layout=pie&card_width=320&langs_count=5&theme=radical&hide_border=false" height="500" alt="languages graph"  />
 </div>
