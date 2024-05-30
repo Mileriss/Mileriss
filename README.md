@@ -1,6 +1,6 @@
 <!--IMAGEM DE APRESENTAÇÃO-->
 <div align="center">
-  <img src="https://github.com/Mileriss/Imagens_Canva/blob/main/Foto_Readme_Github_2.png?raw=true" style="border-radius: 30px;"/>
+  <img src="https://github.com/Mileriss/Imagens_Canva/blob/main/Foto_Readme_Github_3.png?raw=true" style="border-radius: 30px;"/>
 </div>
 
 <!--CONTATO-->
